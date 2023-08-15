@@ -96,7 +96,7 @@ export default function Navbar() {
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
       </MDBCarouselItem>
     </MDBCarousel>
-<h1 id='Pay' className='text-center'>Paying it Forward</h1>
+<h1 id='Pay' className='text-center'>Paying it For</h1>
     <Cards />
     <Counter />
     <CardV />

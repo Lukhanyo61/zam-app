@@ -260,3 +260,54 @@ label{
       #obj{
         height: 180px;
       }
+
+
+      
+      @media screen and (max-width: 410px) {
+        .crd8{
+     margin-top: 10px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        .crd7{
+     margin-top: 10px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        .crd6{
+     margin-top: -10px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        #crd4{
+     margin-top: -90px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        #crd4{
+     margin-top: 10px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        #crd3{
+     margin-top: 10px;
+          
+          }
+          }
+          
+      @media screen and (max-width: 410px) {
+        #crd2{
+     margin-top: 10px;
+          
+          }
+          }

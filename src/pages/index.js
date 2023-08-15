@@ -15,7 +15,10 @@ import {
   MDBCarousel,
   MDBCarouselItem,
 } from 'mdb-react-ui-kit';
-import Cards from '../Components/Cards';
+import Cards from '../Components/Cards/Cards';
+import Counter from '../Components/counter/Counter';
+import CardV from '../Components/CardV'
+import Footer from '../Components/Footer';
 
 export default function Navbar() {
   const [showNav, setShowNav] = useState(false);
@@ -87,8 +90,11 @@ export default function Navbar() {
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
       </MDBCarouselItem>
     </MDBCarousel>
-
+<h1 id='Pay' className='text-center'>Paying it Forward</h1>
     <Cards />
+    <Counter />
+    <CardV />
+    <Footer />
     </>
   );
 }

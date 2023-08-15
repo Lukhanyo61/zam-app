@@ -241,3 +241,22 @@ label{
         margin-left: -100px;
       }
       }
+
+      #item{
+        margin-left: 35%;
+      }
+
+      #mission{
+        margin-top: -100px;
+      }
+      #objective{
+        margin-top: -100px;
+      }
+      
+      #who{
+        height: 180px;
+      }
+
+      #obj{
+        height: 180px;
+      }

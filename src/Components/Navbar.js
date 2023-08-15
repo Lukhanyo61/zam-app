@@ -80,7 +80,7 @@ function Footer() {
             />
           </a>
           <ul
-            class="dropdown-menu dropdown-menu-end"
+            className="dropdown-menu dropdown-menu-end"
             aria-labelledby="navbarDropdownMenuAvatar"
             type="button" class="btn btn-primary" data-mdb-toggle="modal" data-mdb-target="#exampleModal"
           >

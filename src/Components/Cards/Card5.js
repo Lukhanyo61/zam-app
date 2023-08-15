@@ -9,8 +9,8 @@ import {
 
 export default function App() {
   return (
-    <MDBCard>
-      <MDBCardBody>
+    <MDBCard id='objective'>
+      <MDBCardBody id='obj'>
         <MDBCardTitle>Our Objective</MDBCardTitle>
         <MDBCardText>
         To provide disadvantaged youths access towards obtaining their learners and drivers

@@ -409,3 +409,60 @@ width: 254px;
                 margin-top: 80px;
               }
             }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #BP{
+              position: relative; top: 50px; color: #fff;
+            }
+            #Bh1{
+              position: relative; top: 50px; color: #fff;
+            }
+            #banner{
+              background-color: rgb(227, 23, 84); position: relative; top: 0px; height: 150px;
+            }
+            
+            #carouselMultiItemExample{
+              margin-top: 10px;
+            }
+            .banner{
+              background-color: rgb(227, 23, 84); position: relative; top: 100px; height: 750px;
+            }
+            #Nh1{
+              color: #fff; position: relative; top: 20px;
+            }
+            
+            #nominate{
+              background-color: #fff;  height: 600px; position: relative; top:30px;
+            }
+            #Nh5{
+              position: relative; top: 20px; color: rgb(227, 23, 84);
+            }
+            #Nform{
+              position: relative; top: 90px;
+            }
+            #btn-buck{
+              background-color: rgb(227, 23, 84); color: #fff;
+            }
+            
+           
+              

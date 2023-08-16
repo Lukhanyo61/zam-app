@@ -10,7 +10,7 @@ import {
 export default function App() {
   return (
     <MDBCard id='crd1'>
-      <MDBCardBody>
+      <MDBCardBody id='crd1'>
         <MDBCardTitle>What we do</MDBCardTitle>
         <MDBCardText>
         We provide access to learner's and driver's license training for youths from disadvantaged communities in order to enhance their chances of employment.

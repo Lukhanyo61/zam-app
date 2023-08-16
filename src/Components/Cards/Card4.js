@@ -9,7 +9,7 @@ import {
 
 export default function App() {
   return (
-    <MDBCard id='mission crd4'>
+    <MDBCard id='mission'>
       <MDBCardBody>
         <MDBCardTitle>Our Mission</MDBCardTitle>
         <MDBCardText>

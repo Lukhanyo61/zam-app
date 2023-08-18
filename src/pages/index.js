@@ -1,16 +1,5 @@
-
 import React, { useState } from 'react';
-import {
-  MDBContainer,
-  MDBNavbar,
-  MDBNavbarBrand,
-  MDBNavbarToggler,
-  MDBNavbarNav,
-  MDBNavbarItem,
-  MDBNavbarLink,
-  MDBCollapse
- 
-} from 'mdb-react-ui-kit';
+
 import {
   MDBCarousel,
   MDBCarouselItem,
@@ -20,6 +9,17 @@ import Counter from '../Components/counter/Counter';
 import CardV from '../Components/CardV'
 import Footer from '../Components/Footer';
 
+import {
+  MDBContainer,
+  MDBNavbar,
+  MDBNavbarBrand,
+  MDBNavbarToggler,
+  MDBNavbarNav,
+  MDBNavbarItem,
+  MDBNavbarLink,
+  MDBCollapse
+
+} from 'mdb-react-ui-kit';
 
 export default function Navbar() {
   const [showNav, setShowNav] = useState(false);
@@ -27,7 +27,7 @@ export default function Navbar() {
   return (
     <>
    
-    <MDBNavbar expand='lg' light bgColor='default'>
+   <MDBNavbar expand='lg' light bgColor='default'>
       <MDBContainer fluid>
         <MDBNavbarBrand href='/'><img
         style={{width:"80px"}}
@@ -101,7 +101,8 @@ export default function Navbar() {
     <Counter />
     <CardV />
     <Footer />
-    {/* <Navbar /> */}
+    
+   
     </>
   );
 }
